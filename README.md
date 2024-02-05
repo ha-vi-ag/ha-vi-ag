@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Harshit Agrawal</h1>
 <h3 align="center">An Affectionate Full Stack Developer and Competitive Programmer from India</h3>
 
+<img src="" alt="profile">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ha-vi-ag&label=Profile%20views&color=0e75b6&style=flat" alt="ha-vi-ag" /> </p>
 
 - 🔭 I’m currently working on **E-Commerce**
